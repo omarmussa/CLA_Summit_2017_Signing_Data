@@ -21,7 +21,7 @@ You should now be able to open all examples without error.
 
 #  DSA Example on Slide 7:
 
-Download the NI Example from linked post (https://forums.ni.com/t5/Example-Program-Drafts/Cryptography/ta-p/3494085).
+Download the NI Example from linked post: https://forums.ni.com/t5/Example-Program-Drafts/Cryptography/ta-p/3494085.
 
 Open the Crypto*.llb and open "DSA.vi".
 
