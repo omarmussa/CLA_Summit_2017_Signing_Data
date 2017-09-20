@@ -19,10 +19,12 @@ Apply the Dependencies.vipc file from VIPM.
 
 You should now be able to open all examples without error.
 
-# Direct links for DSA Example on Slide 7:
+#  DSA Example on Slide 7:
 
-Download the NI Example from this post and stick them in the root source folder:
-https://forums.ni.com/t5/Example-Program-Drafts/Cryptography/ta-p/3494085
+Download the NI Example from linked post (https://forums.ni.com/t5/Example-Program-Drafts/Cryptography/ta-p/3494085).
 
+Open the Crypto*.llb and open "DSA.vi".
+
+Direct links to the post attachments:
 https://forums.ni.com/ni/attachments/ni/3046/12176/2/Crypto-Tools%202014%20v07.zip
 https://forums.ni.com/ni/attachments/ni/3046/12176/3/dotNET%20CryptoService%202012%20v02.zip
